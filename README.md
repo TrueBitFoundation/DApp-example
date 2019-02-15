@@ -4,7 +4,7 @@ This example uses a web browser to submit a Truebit task to Rinkeby testnet.  At
 
 1. Install [Metamask](https://metamask.io/) extension for your browser.
 
-2. Get some Rinkeby ETH [here](https://faucet.rinkeby.io/).
+2. Get some Rinkeby ETH from [this faucet](https://faucet.rinkeby.io/).
 
 3. Log in to Metamask, and choose an application!
 
