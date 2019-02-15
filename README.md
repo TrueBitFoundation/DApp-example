@@ -15,5 +15,4 @@ This example uses a web browser to submit a Truebit task to Rinkeby testnet.  At
 The solution may take a few minutes to appear in the browser.  You can check progress on the blockchain here: https://rinkeby.etherscan.io/address/0xe36c6ce04b2faa481087cefa05fc5b9d7e385eed.
 
 
-To run this example inside Truebit-OS, go here:
-https://github.com/mrsmkl/example-app/tree/v2
+To run this example inside Truebit-OS, go [here](https://github.com/mrsmkl/example-app/tree/v2).
