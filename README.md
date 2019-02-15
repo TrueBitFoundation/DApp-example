@@ -6,7 +6,7 @@ This example uses a web browser to submit a Truebit task to Rinkeby testnet.  At
 
 2. Get some Rinkeby ETH from [this faucet](https://faucet.rinkeby.io/).
 
-3. Log in to Metamask, and choose an application!
+3. Log in to Metamask, and choose an application below!
 
 (a) Compute an Scrypt hash:
 http://176.9.9.249:3000/app/
